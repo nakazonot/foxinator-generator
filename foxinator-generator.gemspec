@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.license      = "Copyright HitFox Group"
 
   s.add_dependency("state_machines-activerecord", "~> 0.3.0")
-  s.add_dependency("inherited_resources", "~>1.6.0")
+  s.add_dependency("inherited_resources", "~>1.7.0")
   s.add_dependency("config", "~>1.0.0")
   s.add_dependency("devise", "~>4.2.0")
   s.add_dependency("kaminari", "~>0.16.3")
